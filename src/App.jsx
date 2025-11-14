@@ -1,18 +1,18 @@
 import "./App.css"
-import reebok from "./assets/reebok.JPG";
+import reebok from "./assets/reebok.jpg";
 // import logo from "./assets/logo1.jpg"
 import apollo from "./assets/apollo.png";
 import aurelia from "./assets/aurelia.png";
-import career from "./assets/career-logo-2a.JPG";
+import career from "./assets/career-logo-2a.jpg";
 import CBRE from "./assets/CBRE.png";
 import delhidynamos from "./assets/delhidynamos.jpg";
 import Dennetwork from "./assets/Dennetwork.png";
 import DLF from "./assets/DLF.png";
-import dlfmalls from "./assets/dlfmalls.JPG";
+import dlfmalls from "./assets/dlfmalls.jpg";
 import havells from "./assets/havells.png";
 import hello from "./assets/hello.png";
 import housing from "./assets/housing.png";
-import jphospital from "./assets/jphospital.JPG";
+import jphospital from "./assets/jphospital.jpg";
 import nsdc from "./assets/nsdc.png";
 import ola from "./assets/ola.svg";
 import pnbmetlife from "./assets/pnbmetlife.png";
